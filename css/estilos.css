@@ -37,3 +37,12 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#foo{
+    background-color: chartreuse;
+    color: black;
+    margin: 75px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30%;
+    margin-bottom: 0px;
+}
